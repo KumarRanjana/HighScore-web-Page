@@ -49,4 +49,24 @@ let questions = [
         "choices": ["2", "3", "4", "5"],
         "answer": "3"
     },
+    {
+        "title": "8 times 7 = ...",
+        "choices": ["56", "65", "45" , "None of the above"],
+        "answer": "56"
+    },
+    {
+        "title": "Suzan works 5 hours everyday. How many hours does she work in 3 days?",
+        "choices": ["12hours" , "15hours", "14hours", "10hours"],
+        "answer": "15hours"
+    },
+    {
+        "title": "What is 4 times 6?",
+        "choices": ["34", "24", "18", "14"],
+        "answer": "24"
+    },
+    {
+        "title": "Sam eats 3 chocolates in one hour. How many chocolates does he eat in 7 hours?",
+        "choices": ["22" , "21" , "45" , "None of the Above"],
+        "answer": "21"
+        }
 ]

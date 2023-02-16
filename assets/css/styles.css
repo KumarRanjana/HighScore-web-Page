@@ -2,6 +2,7 @@ body {
   font-family: Arial;
   font-size: 120%;
   color: #a50952;
+  background: limegreen;
 }
 
 a {
@@ -25,6 +26,14 @@ button {
   color: white;
   border: 0;
   transition: background-color 0.1s;
+}
+
+header {
+  padding: 40px;
+  text-align: center;
+  background:  #563d7c;
+  color : #9ba570;
+  border-bottom: 30px #a50952;
 }
 
 button:hover {
